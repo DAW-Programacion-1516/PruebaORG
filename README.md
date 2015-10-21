@@ -1,2 +1,2 @@
-# PrurebaORG
+# PruebaORG
 Prueba repo org
